@@ -1,12 +1,11 @@
-# Meu Projeto HTML-CSS
+# GameZone
 
-## Objetivo
-Praticar HTML, CSS, Git e GitHub.
+Primeira versão do portal GameZone, desenvolvido como atividade de HTML e CSS.
 
-## Arquivos do projeto
-- index.html: estrutura da página.
-- style.css: aparência da página.
-- README.md: documentação do projeto.
+## Arquivos
+- `index.html`: estrutura da página.
+- `style.css`: estilos externos.
+- `imagens/banner-gamezone.jpg`: imagem utilizada no banner.
 
-## Autor
-Wester Sousa
+## Como visualizar
+Abra o arquivo `index.html` em um navegador. O arquivo `style.css` e a imagem são carregados por caminhos relativos.
